@@ -11,4 +11,4 @@ Aprendi a ultilização do @media screen em CSS, uma forma de adaptar o site par
   <h3>Aqui esta um preview do site</h3>
 ![2023-03-31 16-42-12](https://user-images.githubusercontent.com/109975953/229216160-bf428743-88df-4dcb-ab08-31fdea3306db.gif)
 
-  
+ 
